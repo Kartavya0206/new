@@ -1,5 +1,5 @@
 import java.util.* ;
-public class Fabbinacci {
+public class Fabbinaci{
     public static void main(String[] args) {
         
         Scanner sc = new Scanner(System.in);
